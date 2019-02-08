@@ -55,9 +55,9 @@ public class MyController {
         techList.add("Struts");
 
         List<String> citiesList = new ArrayList<>();
-        citiesList.add("Pune");
-        citiesList.add("Chennai");
-        citiesList.add("Delhi");
+        citiesList.add("Ternopil");
+        citiesList.add("Kyib");
+        citiesList.add("Lviv");
         citiesList.add("Other");
 
         List<String> genderList = new ArrayList<>();
