@@ -8,7 +8,7 @@
 </head>
 <body>
 <a href="/SpringMVCInitBinderWebApp">Back</a>
-<h3 align="center">You have registered with following Info::::</h3>
+<h3 align="center">You have registered with following Info:</h3>
 
 <table align="center">
     <tr>

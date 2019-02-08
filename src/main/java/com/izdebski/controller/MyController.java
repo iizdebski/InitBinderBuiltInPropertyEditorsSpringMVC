@@ -56,7 +56,7 @@ public class MyController {
 
         List<String> citiesList = new ArrayList<>();
         citiesList.add("Ternopil");
-        citiesList.add("Kyib");
+        citiesList.add("Kyiv");
         citiesList.add("Lviv");
         citiesList.add("Other");
 
